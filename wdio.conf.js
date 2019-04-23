@@ -73,7 +73,7 @@ exports.config = {
     ],
     
     // use built-in Sauce Connect functionality included with wdio-sauce-service
-    sauceConnect: true,
+    sauceConnect: false,
     region: 'us',
 
     //
